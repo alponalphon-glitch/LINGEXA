@@ -1,0 +1,10 @@
+/LINGEXA/
+/backups/
+.gradle/
+**/build/
+local.properties
+*.jks
+*.keystore
+**/backups/
+*.backup*
+*.before-*
